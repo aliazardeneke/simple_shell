@@ -159,7 +159,7 @@ Node that in the second line the *Ctrl+C*  is typed
 
 
 
-## Authors:
+## Author:
 
-- *Robinson Montes* - [@mecomonteshbtn](https://github.com/mecomonteshbtn) 
-- *Nicolás Zárate*  - [@Nicolanz](https://github.com/Nicolanz)
+- *Aliazar Deneke* - [@aliazardeneke](https://github.com/aliazardeneke) 
+
